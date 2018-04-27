@@ -1,2 +1,2 @@
 # Widget-Corp
-A model of a Content Management System(CMS)
+A Content Management System(CMS) written in PHP and MYSQL.
